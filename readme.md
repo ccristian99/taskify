@@ -1,2 +1,0 @@
-taskify
-Taskify es una aplicación web que ofrece al usuario una forma fácil y accesible de gestionar sus tareas mediante un sistema kanban. ✅ Gestión facil de tareas 🚀 flujo de trabajo kanban 🔒 Seguro y confiable
